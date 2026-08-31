@@ -1,0 +1,18 @@
+# Large data files and processed objects
+data/
+*.rds
+*.mtx
+*.mtx.gz
+
+# R and RStudio temporary files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto temporary files
+.quarto/
+*_files/
+
+# macOS temporary files
+.DS_Store
