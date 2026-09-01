@@ -4,6 +4,8 @@ A reproducible analysis of matched normal and tumor colorectal tissue using the 
 
 This portfolio project examines cellular heterogeneity, tumor-associated changes in cell-type composition, and transcriptional differences in epithelial cells.
 
+> This is an independent portfolio reanalysis of a publicly available single-cell RNA-sequencing dataset, developed to demonstrate a reproducible scRNA-seq workflow and biological interpretation. The analysis begins with a processed raw UMI count matrix rather than FASTQ files and is not presented as novel research or as a reproduction of the original authors' complete analysis.
+
 ## Dataset
 
 GSE132465 contains single-cell 3′ RNA-sequencing data from 23 primary colorectal tumors and 10 matched normal mucosa samples.
